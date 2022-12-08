@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1670525283 source:c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\main.cpp
+	<iostream>
+	"figurageometrica.h"
+	"putbox.h"
+	"cutbox.h"
+	"sculptor.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<vector>
+
+1670524126 source:c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\putbox.cpp
+	"putBox.h"
+
+1670523878 c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\putbox.h
+	"figurageometrica.h"
+
+1670523865 c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\figurageometrica.h
+	"sculptor.h"
+
+1670523282 c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\sculptor.h
+
+1670524290 source:c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\sculptor.cpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+	<cmath>
+	<fstream>
+	"sculptor.h"
+
+1670524549 source:c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\cutbox.cpp
+	"cutBox.h"
+
+1670524513 c:\users\vanderson.borborema.110\desktop\aaa\projeto2.0\cutbox.h
+	"figurageometrica.h"
+
